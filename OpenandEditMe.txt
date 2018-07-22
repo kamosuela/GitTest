@@ -1,0 +1,26 @@
+Please write your name if you have accessed the document.
+
+1. Kristine - changed the document
+2. 
+
+3...
+
+
+
+Edit as you please within this area:
+
+
+
+You can search globally across all of GitHub!!, or scope your search to a particular repository or organization.
+
+To search globally across all of GitHub, type what you're looking for into the search field at the top of your personal dashboard page, or into the search fields on the search page or advanced search page. For more information, see "About your personal dashboard" and "Advanced search."
+To search within a particular repository or organization, navigate to the repository or organization page and type what you're looking for into the search field at the top of the page.
+You can search the following types of information across all public GitHub repositories, and all private GitHub repositories you have access to:
+
+Repositories
+Topics
+Issues and pull requests
+Code
+Commits
+Users
+Wikis
